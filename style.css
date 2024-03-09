@@ -1,0 +1,27 @@
+.login{
+    background-color: white;
+    border-radius: 5px;
+    height:200px;
+    width: 350px;
+    background-repeat: no-repeat;
+    margin-left: 38%;
+    margin-top: 190px;
+    text-align: center;
+    padding-top: 20px;
+}
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.btn{
+    margin-top: 15px;
+}
+.btn button{
+    border-radius: 6px;
+    border-color: lightblue;
+    padding-left: 20px;
+    width: 170px;
+    height: 30px;
+    color: black;
+    background-color: lightblue;
+}
